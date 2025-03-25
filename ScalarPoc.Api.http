@@ -1,0 +1,6 @@
+@ScalarPoc.Api_HostAddress = http://localhost:5228
+
+GET {{ScalarPoc.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
